@@ -2,6 +2,7 @@
 <!-- If the PR is not ready to be merged include "[WIP]" in the beginning of the title -->
 
 ## Summary
+## PLATFORM
 
 <!-- Describe the changes introduced by the PR -->
 <!-- Include rationale and design decisions if it makes sense -->

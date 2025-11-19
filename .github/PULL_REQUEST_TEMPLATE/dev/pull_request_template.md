@@ -2,6 +2,7 @@
 <!-- PR title format: "JIRA: LHTOCLOUD-0000 Short description of the PR, up to 50 chars" -->
 
 ## 🚀 Summary
+## `https://github.com/niki-playground/test_argo_repo/compare/main...test?quick_pull=1&template=dev`
 <!-- Describe the purpose of this PR and what it does. Include context if necessary. -->
 
 ## 📌 Related Issues
